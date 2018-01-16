@@ -1,6 +1,8 @@
 Bitcoin Core integration/staging tree
 =====================================
 
+This is my clone of the bitcoin repository so I can practice to be a bitcoin developer.
+
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
 https://bitcoincore.org
